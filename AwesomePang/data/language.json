@@ -1,0 +1,66 @@
+{
+	"start": {
+		"english": "START",
+		"spanish": "COMENZAR"
+	},
+	"options": {
+		"english": "OPTIONS",
+		"spanish": "OPCIONES"
+	},
+	"exit": {
+		"english": "EXIT",
+		"spanish": "SALIR"
+	},
+	"sound": {
+		"english": "SOUND",
+		"spanish": "SONIDO"
+	},
+	"effects": {
+		"english": "EFFECTS",
+		"spanish": "EFECTOS"
+	},
+	"language": {
+		"english": "LANGUAGE",
+		"spanish": "IDIOMA"
+	},
+	"paused": {
+		"english": "RETURN TO GAME",
+		"spanish": "VOLVER AL JUEGO"
+	},
+	"returnToGame": {
+		"english": "EXIT GAME",
+		"spanish": "SALIR DEL JUEGO"
+	},
+	"returnToGame": {
+		"english": "PRESS 'ESC' TO EXIT",
+		"spanish": "PULSE 'ESC' PARA SALIR"
+	},
+	"chooseGame": {
+		"english": "CHOOSE GAME LEVEL TO PLAY",
+		"spanish": "ESCOGE LA DIFICULTAD PARA JUGAR"
+	},
+	"easyGame": {
+		"english": "1 - EASY",
+		"spanish": "1 - FACIL"
+	},
+	"medGame": {
+		"english": "2 - MEDIUM",
+		"spanish": "2 - MEDIA"
+	},
+	"hardGame": {
+		"english": "3 - HARD",
+		"spanish": "3 - DIFICIL"
+	},
+	"errorInLevelsFile": {
+		"english": "ERROR IN LEVELS FILE!",
+		"spanish": "ERROR EN EL FICHERO DE NIVELES"
+	},
+	"returnMenu": {
+		"english": "PRESS ESC TO RETURN",
+		"spanish": "PULSE 'ESC' PARA VOLVER"
+	},
+	"pausedText": {
+		"english": "GAME PAUSED",
+		"spanish": "JUEGO PAUSADO"
+	}
+}

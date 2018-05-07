@@ -1,0 +1,19 @@
+{
+	"levelEasy": {
+		"level": "easy",
+		"enemies": 1
+	},
+	"levelMid": {
+		"level": "mid",
+		"enemies": 2
+	},
+	"levelHard": {
+		"level": "hard",
+		"enemies": 4
+	},
+	"levelTextures": {
+		"characterTexture": "data/ship.png",
+		"enemyTexture": "data/enemy_ball.png",
+		"bulletTexture": "data/fire_ball.png"
+	}
+}

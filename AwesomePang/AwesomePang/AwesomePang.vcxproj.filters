@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Menu">
+      <UniqueIdentifier>{e3d40c0a-a0dd-4c4e-9762-fde356975e95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu">
+      <UniqueIdentifier>{904f4b1a-fccf-47e4-9a12-53491c37afe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Extern">
+      <UniqueIdentifier>{8dbffce0-d28b-4490-bbfd-b6f887fe7422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Extern">
+      <UniqueIdentifier>{80469786-87de-4a94-a4bf-cbff343ec67c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\App Manager">
+      <UniqueIdentifier>{dee71bd0-fcb6-4946-b220-53a6b22422d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\App Manager">
+      <UniqueIdentifier>{7baa9430-3014-4fef-a35d-0918401241d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics Engine">
+      <UniqueIdentifier>{a93a6b24-8a31-4cad-9145-e769f198876a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics Engine">
+      <UniqueIdentifier>{ff8ec61f-4163-4e3f-a43f-84aab9005228}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Collision System">
+      <UniqueIdentifier>{f0a0d64f-961f-4468-a9d7-eeaaa19b7b4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Collision System">
+      <UniqueIdentifier>{b38acc13-2cc1-46f6-80bd-878d7b06a265}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entity System">
+      <UniqueIdentifier>{f23bac9d-d924-48ec-b32e-d5015c393fd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Entity System">
+      <UniqueIdentifier>{46f38785-0438-48fc-a7bf-dd18c8b9d497}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Input Manager">
+      <UniqueIdentifier>{f25d0fcf-0473-4f92-b3cc-34b2e91a362d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Input Manager">
+      <UniqueIdentifier>{6f452efb-c1cb-41bb-a54e-5e6c3cb91b4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Logic">
+      <UniqueIdentifier>{590fb7a3-de9e-4e54-9145-60784d8417a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Global">
+      <UniqueIdentifier>{1c25dea8-420d-4ced-bb04-2d62c398fa7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Logic">
+      <UniqueIdentifier>{31434f1f-d2d1-45d1-bc11-bdc7483bda74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Menu\Menu Items">
+      <UniqueIdentifier>{867a1e24-8635-4096-9ef1-1c3acfa43452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu\Menu Items">
+      <UniqueIdentifier>{ad1fc49e-2d53-44c1-ba01-ab9f8938566c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu\General Menus">
+      <UniqueIdentifier>{bf3bc675-5a94-4742-b071-2a34034af696}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu\Ingame Menus">
+      <UniqueIdentifier>{4dd58d23-714f-474b-9dc0-f75456693cb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Menu\General Menus">
+      <UniqueIdentifier>{736f537c-ea88-4e87-8aa3-76aeb506297e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Menu\Ingame Menus">
+      <UniqueIdentifier>{d16ec278-ed8e-4741-a092-79ca31ca9bb5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="core.h">
+      <Filter>Header Files\Extern</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>Header Files\Extern</Filter>
+    </ClInclude>
+    <ClInclude Include="lodepng.h">
+      <Filter>Header Files\Extern</Filter>
+    </ClInclude>
+    <ClInclude Include="sys.h">
+      <Filter>Header Files\Extern</Filter>
+    </ClInclude>
+    <ClInclude Include="AppManager.h">
+      <Filter>Header Files\App Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeAppGame.h">
+      <Filter>Header Files\App Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeAppMenu.h">
+      <Filter>Header Files\App Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeApp.h">
+      <Filter>Header Files\App Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsEngine.h">
+      <Filter>Header Files\Graphics Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header Files\Graphics Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionsEngine.h">
+      <Filter>Header Files\Collision System</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files\Entity System</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Header Files\Entity System</Filter>
+    </ClInclude>
+    <ClInclude Include="Message.h">
+      <Filter>Header Files\Entity System</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files\Input Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Header Files\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Game Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Header Files\Menu\General Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionsMenu.h">
+      <Filter>Header Files\Menu\General Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayMenu.h">
+      <Filter>Header Files\Menu\General Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseMenu.h">
+      <Filter>Header Files\Menu\Ingame Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemSelectable.h">
+      <Filter>Header Files\Menu\Menu Items</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AwesomePang.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="core.cpp">
+      <Filter>Source Files\Extern</Filter>
+    </ClCompile>
+    <ClCompile Include="font.cpp">
+      <Filter>Source Files\Extern</Filter>
+    </ClCompile>
+    <ClCompile Include="sys_win.cpp">
+      <Filter>Source Files\Extern</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeAppGame.cpp">
+      <Filter>Source Files\App Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeAppMenu.cpp">
+      <Filter>Source Files\App Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="AppManager.cpp">
+      <Filter>Source Files\App Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="lodepng.cpp">
+      <Filter>Source Files\Extern</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsEngine.cpp">
+      <Filter>Source Files\Graphics Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files\Graphics Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionsEngine.cpp">
+      <Filter>Source Files\Collision System</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files\Entity System</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>Source Files\Entity System</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files\Input Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\Game Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files\Menu\General Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsMenu.cpp">
+      <Filter>Source Files\Menu\General Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayMenu.cpp">
+      <Filter>Source Files\Menu\General Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseMenu.cpp">
+      <Filter>Source Files\Menu\Ingame Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemSelectable.cpp">
+      <Filter>Source Files\Menu\Menu Items</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
